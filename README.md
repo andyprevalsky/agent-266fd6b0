@@ -1,0 +1,2 @@
+# agent-266fd6b0
+Auto-created workspace for Rose Labs agent
